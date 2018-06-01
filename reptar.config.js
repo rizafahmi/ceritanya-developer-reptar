@@ -1,4 +1,3 @@
-
 const noopMiddleware = () => {};
 
 module.exports = {
@@ -7,11 +6,11 @@ module.exports = {
   // Any values placed here are globally accessible
   // from any template context via the `site` key.
   site: {
-    title: 'My Reptar Title',
-    email: 'your-reptar@email.com',
-    description: "Your website's description goes here.\n",
+    title: 'Ceritanya Developer Podcast ()[];',
+    email: 'rizafahmi@gmail.com',
+    description: 'Saya Riza dan di podcast ini saya akan berbincang-bincang dengan developer, programmer, software engineer keren dan inspiratif tentang bagaimana mereka memulai karir mereka sebagai developer. Kita juga akan mendengar cerita mereka tentang komputer pertama mereka, pengalaman coding pertama hingga pekerjaan pertama mereka sebagai developer.',
     baseurl: '/', // the subpath of your site, e.g. /blog
-    url: 'http://yourdomain.com',
+    url: 'https://ceritanyadeveloper.com',
   },
   // Where things are.
   // If you have a unique layout for your site and want to
