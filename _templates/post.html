@@ -3,13 +3,44 @@
 {% block body_class %}post-template{% endblock%}
 
 {% block content %}
-
-<article class="pa3 pa5-ns">
-  <h1 class="f2">{{file.titlejJA}}</h1>
-  <img src="{{file.thumbnail}}" class="w-100 f5 measure" alt="{{file.guest}}" />
-  <p class="measure lh-copy">
-    {{file.content | safe}}
-  </p>
+<article class="db pv4 ph3 ph0-l bt bb b--black-10">
+  <div class="flex flex-column flex-row-ns">
+    <div class="w-100 pl3-ns">
+      <h1 class="f1 fw1 avenir mt0 lh-title tc">{{file.title}}</h1>
+      <div class="f5 f4-l lh-copy">
+        <div class="pa4">
+          <blockquote class="ml0 mt0 pl4 black-90 bl bw2 b--blue">
+            <p class="f4 f3-m f3-l lh-copy measure mt0">{{file.excerpt}}</p>
+            <cite class="f5 ttu tracked fs-normal">― {{file.guest}}</cite>
+          </blockquote>
+        </div>
+        <div>
+          <script>
+            window.playerConfiguration = {
+              "options": {
+                "theme": "minimal"
+              },
+              "episode": {
+                "number": "{{file.episodeNumber}}",
+                "title": "{{file.guest}}",
+                "subtitle": "{{file.subtitle}}",
+                "media": {"m4a": "{{ file.audio }}"},
+                "url": "https://ceritanyadeveloper.com{{file.url}}",
+                "coverUrl": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/405469/405469-1523330369409-6aa8500ebd35f.jpg"
+              }
+            }
+          </script>
+          <script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+          <a href="{{file.audio}}" target="_blank">Download</a>
+        </div>
+        <p class="measure-wide lh-copy">
+          {{file.content | safe}}
+          <img src="{{file.thumbnail}}" class="w-100" alt="Photo of a dimly lit room with a computer interface terminal.">
+        </p>
+      </div>
+    </div>
+  </div>
 </article>
+
 
 {% endblock%}
