@@ -3,6 +3,7 @@ layout:     episode
 title:      devs[3] = Shabrina Virta Inmas
 date:       2018-05-28
 summary:    Kebahagiaan bisa diraih hanya karena mengetahui tentang vim plugin.
+draft:      true
 ---
 
 <iframe src="https://anchor.fm/ceritanya-developer/embed/episodes/devs2--Trimikha-Valentius-e1b7ri" height="162px" width="98%" frameborder="0" scrolling="no"></iframe>
