@@ -11,9 +11,7 @@ Dapatkan update langsung ke inbox email kamu dengan _subscribe_ ke newsletter Ce
 <p class="email-octopus-success-message"></p>
 <p class="email-octopus-error-message"></p>
 
-<form method="post" action="https://emailoctopus.com/lists/ff1cb805-33c4-11e8-a3c9-06b79b628af2/members/embedded/1.1/add"
-class="email-octopus-form"
->
+<form method="post" action="https://emailoctopus.com/lists/ff1cb805-33c4-11e8-a3c9-06b79b628af2/members/embedded/1.1/add" class="email-octopus-form" >
 
 <div class="email-octopus-form-row">
 <label for="field_1">Nama kamu</label>
@@ -30,15 +28,11 @@ class="email-octopus-form"
 
 <div class="email-octopus-form-row-hp" aria-hidden="true">
 <!-- Do not remove this field, otherwise you risk bot sign-ups -->
-<input type="text" name="hpff1cb805-33c4-11e8-a3c9-06b79b628af2"
- tabindex="-1"
- autocomplete="nope">
+<input type="text" name="hpff1cb805-33c4-11e8-a3c9-06b79b628af2" tabindex="-1" autocomplete="nope">
 </div>
 
 <div class="email-octopus-form-row-subscribe">
-<input type="hidden"
- name="successRedirectUrl"
- value="https://ceritanyadeveloper.com/subscribed">
+<input type="hidden" name="successRedirectUrl" value="https://ceritanyadeveloper.com/subscribed">
 <button type="submit">Subscribe</button>
 </div>
 </form>
