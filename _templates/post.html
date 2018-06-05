@@ -15,22 +15,10 @@
           </blockquote>
         </div>
         <div>
-          <script>
-            window.playerConfiguration = {
-              "options": {
-                "theme": "minimal"
-              },
-              "episode": {
-                "number": "{{file.episodeNumber}}",
-                "title": "{{file.guest}}",
-                "subtitle": "{{file.subtitle}}",
-                "media": {"m4a": "{{ file.audio }}"},
-                "url": "https://ceritanyadeveloper.com{{file.url}}",
-                "coverUrl": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/405469/405469-1523330369409-6aa8500ebd35f.jpg"
-              }
-            }
-          </script>
-          <script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>
+          <audio id="player" controls>
+            <source src="{{file.audio}}" type="audio/mp3">
+            <source src="{{file.audio}}" type="audio/mp4">
+          </audio>
           <a href="{{file.audio}}" target="_blank">Download</a>
         </div>
         <p class="measure-wide lh-copy">
@@ -41,5 +29,7 @@
   </div>
 </article>
 
+<script src="https://cdn.plyr.io/3.3.10/plyr.js"></script>
+<script>const player = new Plyr('#player');</script>
 
 {% endblock%}
