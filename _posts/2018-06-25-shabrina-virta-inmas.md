@@ -7,7 +7,7 @@ url:        /shabrina-inmas/
 excerpt:    "Bahagia itu sederhana. Bisa vim plugin itu bahagia. Selama dua tahun saya menggunakan vim tanpa plugin sama sekali. Saya tidak tahu vim itu bisa diinstal plugin."
 guest:      Shabrina Virta Inmas
 thumbnail: /images/shabrina.jpeg
-audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-3-23/2340804-22050-1-3c0034ec6fece.m4a
+audio: https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2018-3-16/2247855-22050-1-02c0d2b808942.m4a
 tags:
 - meta
 ---
