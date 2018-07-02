@@ -8,6 +8,7 @@ excerpt: "Membuat aplikasi dan game itu seperti merakit mainan yang bagian-bagia
 guest: Trimikha Valentius
 thumbnail: /images/trimikha.jpg
 audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-3-23/2340804-22050-1-3c0034ec6fece.m4a
+embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs2--Trimikha-Valentius-e1b7ri
 tags:
 - meta
 ---

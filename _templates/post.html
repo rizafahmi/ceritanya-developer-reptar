@@ -9,16 +9,13 @@
       <h1 class="f1 fw1 avenir mt0 lh-title tc">{{file.title}}</h1>
       <div class="f5 f4-l lh-copy">
         <div class="pa4">
-          <blockquote class="ml0 mt0 pl4 black-90 bl bw2 b--blue">
+          <blockquote class="ml0 mt0 pl4 black-90 bl bw2 b--light-purple">
             <p class="f4 f3-m f3-l lh-copy measure mt0">{{file.excerpt}}</p>
             <cite class="f5 ttu tracked fs-normal">― {{file.guest}}</cite>
           </blockquote>
         </div>
+        <iframe src="{{file.embed}}" height="102px" width="752px" frameborder="0" scrolling="no"></iframe>
         <div>
-          <audio id="player" controls>
-            <source src="{{file.audio}}" type="audio/mp3">
-            <source src="{{file.audio}}" type="audio/mp4">
-          </audio>
           <a href="{{file.audio}}" target="_blank">Download</a>
         </div>
         <p class="measure-wide lh-copy">

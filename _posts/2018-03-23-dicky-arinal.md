@@ -8,6 +8,7 @@ guest: Dicky Arinal
 subtitle: Developer yang sangat mengagungkan elegansi
 thumbnail: /images/dicky.jpg
 audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-2-27/2001555-22050-1-b58c46866e5fe.m4a
+embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs0--Dicky-Arinal-e186lm
 tags:
 - meta
 ---

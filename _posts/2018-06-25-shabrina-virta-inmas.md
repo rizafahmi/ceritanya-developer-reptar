@@ -8,6 +8,7 @@ excerpt:    "Bahagia itu sederhana. Bisa vim plugin itu bahagia. Selama dua tahu
 guest:      Shabrina Virta Inmas
 thumbnail: /images/shabrina.jpeg
 audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-5-9/3113905-44100-2-dc7cbdb1be6d.mp3
+embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs3--Shabrina-Virta-Inmas-e1b7rn
 tags:
 - meta
 ---
