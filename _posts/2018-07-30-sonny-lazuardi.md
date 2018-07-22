@@ -1,10 +1,10 @@
 ---
 title:      devs[4] = Sonny Lazuardi
-date:       2018-07-30
-subtitle:   Kebahagiaan bisa diraih hanya karena mengetahui tentang vim plugin.
+date:       2018-07-19
+subtitle:   Dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang
 draft:      false
 url:        /sonny-lazuardi/
-excerpt:    "Bahagia itu sederhana. Bisa vim plugin itu bahagia. Selama dua tahun saya menggunakan vim tanpa plugin sama sekali. Saya tidak tahu vim itu bisa diinstal plugin."
+excerpt:    "Coding mengasah kreatifitas dan dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang itu sangat membahagiakan."
 guest:      Sonny Lazuardi
 thumbnail: /images/sonny.jpg
 audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-5-9/3113905-44100-2-dc7cbdb1be6d.mp3
@@ -14,26 +14,44 @@ tags:
 
 ---
 
-Sonny adalah
+Sonny adalah lulusan _computer science_ Institut Teknologi Bandung yang saat ini bekerja sebagai UX Engineer di [Grab](https://www.grab.com/sg/) yang saat ini menetap di negeri tetangga Singapura sejak 2017 silam.
+
+Sonny terkenal cukup produktif menelurkan proyek-proyek _open source_ beberapa diantaranya ada [react-native-nike-running](https://github.com/sonnylazuardi/react-native-nike-running), [react-native-bouncing-preloader](https://github.com/sonnylazuardi/react-native-bouncing-preloader) hingga [react-komik](https://github.com/sonnylazuardi/react-komik) dan masih banyak lagi. `react-komik` bahkan sempat ia presentasikan di perhelatan [JSConf Asia 2016](https://2016.jsconf.asia/)! Simak videonya [disini](https://www.youtube.com/watch?v=tokHz64qXs8).
+
+Meski saat ini bekerja sebagai UX Engineer di Grab, Sonny juga pernah bekerja sebagai Front-end Engineer saat masih di [ Sale Stock Indonesia ](https://www.salestockindonesia.com/about/tentang-kami) dan juga pernah menjadi Back-end developer di perusahaan sebelumnya.
+
+Ketertarikannya ke dunia komputer sudah sejak ia duduk di bangku sekolah dasar! Saat itu ia tertarik dengan animasi dan kartun. Komputer pertamanya adalah [ Pentium 4 ](https://en.wikipedia.org/wiki/Pentium_4) dengan sistem operasi [Windows ME](https://en.wikipedia.org/wiki/Windows_ME). Dan di bangku SMP ia pertama kali merasakan pengalaman _coding_ dengan [ Flash ](https://en.wikipedia.org/wiki/Adobe_Flash) dan [ ActionScript ](https://en.wikipedia.org/wiki/ActionScript) sebagai _platform_ dan bahasa yang ia pilih karena memang tertarik dengan animasi pada saat itu.
+
+Alasan utama Sonny menekuni dunia _development_ adalah karena _coding_ mengasah kreatifitas dan dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang itu sangat membahagiakan. Dan hal tersebut sangat berasa baginya saat ini di Grab ketika ia mengembangkan satu fitur yang digunakan oleh banyak orang di seluruh dunia.
+
+Sosok yang mengidolai sosok open source sekelas [Sindre Sorhus](https://github.com/sindresorhus), [Dan Abramov](https://github.com/gaearon) dan [Ariya Hidayat](https://github.com/ariya) ini juga berkesempatan dimentori oleh Mas [Arie Prasetyo](https://www.linkedin.com/in/arisetyo/) kala ia masih menjadi _intern_ di Ohdio. Dan di Ohdio ini juga Sonny pertama kali merasakan mengembangkan aplikasi dengan [NodeJS](https://nodejs.org/en/) setelah sebelumnya berkutat di JavaScript di sisi frontend.
 
 ## Tips Untuk Developer
 
-* Banyak baca dan terus belajar
-* Mengamati dan belajar bagaimana expert bekerja
+* Jangan takut untuk mencoba hal baru dan eksplorasi
+* Mulailah kontribusi ke _open source_ dari hal yang paling sederhana seperti menambahkan dokumentasi
 
 ## Rekomendasi Buku
 
-* [ Eloquent JavaScript ](https://eloquentjavascript.net/)
+* [The Effective Engineer, Edmond Lau](https://www.effectiveengineer.com/book)
 
 ## Kontak
 
-* [ Twitter ](https://twitter.com/esviai)
+* [ Facebook ](https://www.facebook.com/sonny.lazuardi)
+* [ Instagram ](https://instagram.com/sonnylazuardi)
 
 ## Tech Stack
 
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" width="128" />
-<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="128" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/2000px-Icon-Vim.svg.png" width="128" />
+<img style="width: 128px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
+
+<img style="max-width: 128px" src="http://www.jsweet.org/wp-content/uploads/2016/04/react-logo-300x289.png" />
+
+<img style="max-width: 228px" src="https://www.tablexi.com/wp-content/uploads/2017/12/ReactNative.png" />
+
+<img style="max-width: 228px" src="https://graphql.org/img/og_image.png" />
+
+<img style="max-width: 238px" src="https://2.bp.blogspot.com/-cGy5Bf5Hufg/WZxAzhnYOHI/AAAAAAAAGGQ/MOqbywRl9AYqkd-8WImmBJR5RPsS5aQzQCLcBGAs/s1600/visual-studio-code-for-lubuntu.jpg" />
+
 
 ## Sponsor
 
