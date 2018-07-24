@@ -1,6 +1,6 @@
 ---
 title:      devs[4] = Sonny Lazuardi
-date:       2018-07-19
+date:       2018-07-30
 subtitle:   Dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang
 draft:      false
 url:        /sonny-lazuardi/
