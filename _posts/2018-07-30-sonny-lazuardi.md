@@ -1,14 +1,14 @@
 ---
 title:      devs[4] = Sonny Lazuardi
-date:       2018-07-30
+date:       2018-07-29
 subtitle:   Dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang
 draft:      false
 url:        /sonny-lazuardi/
 excerpt:    "Coding mengasah kreatifitas dan dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang itu sangat membahagiakan."
 guest:      Sonny Lazuardi
 thumbnail: /images/sonny.jpg
-audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-5-9/3113905-44100-2-dc7cbdb1be6d.mp3
-embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs3--Shabrina-Virta-Inmas-e1b7rn
+audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-6-12/3581804-44100-2-1769cf9eaf757.m4a
+embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs4--Sonny-Lazuardi-e1plv3
 tags:
 - meta
 
