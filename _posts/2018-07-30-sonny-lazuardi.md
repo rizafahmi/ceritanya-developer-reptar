@@ -44,7 +44,7 @@ Sosok yang mengidolai sosok open source sekelas [Sindre Sorhus](https://github.c
 
 <img style="width: 128px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
 
-<img style="max-width: 128px" src="http://www.jsweet.org/wp-content/uploads/2016/04/react-logo-300x289.png" />
+<img style="max-width: 128px" src="https://www.bignerdranch.com/assets/img/blog/2017/11/react-logo.png" />
 
 <img style="max-width: 228px" src="https://www.tablexi.com/wp-content/uploads/2017/12/ReactNative.png" />
 
