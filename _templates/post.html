@@ -2,8 +2,9 @@
 
 {% block body_class %}post-template{% endblock%}
 {% block meta_og %}
+<meta name="description" content="'{{file.excerpt}}' {{file.guest}}">
 <meta property="og:title" content="Ceritanya {{file.guest}}" />
-<meta property="og:type" content="audio" />
+<meta property="og:type" content="podcast" />
 <meta property="og:url" content="{{site.url}}{{file.url}}" />
 <meta property="og:image" content="{{file.thumbnail}}" />
 {% endblock %}
@@ -31,8 +32,5 @@
     </div>
   </div>
 </article>
-
-<script src="https://cdn.plyr.io/3.3.10/plyr.js"></script>
-<script>const player = new Plyr('#player');</script>
 
 {% endblock%}
