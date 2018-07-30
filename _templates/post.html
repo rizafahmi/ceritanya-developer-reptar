@@ -1,6 +1,12 @@
 {% extends 'base.html' %}
 
 {% block body_class %}post-template{% endblock%}
+{% block meta_og %}
+<meta property="og:title" content="Ceritanya {{file.guest}}" />
+<meta property="og:type" content="audio" />
+<meta property="og:url" content="{{site.url}}{{file.url}}" />
+<meta property="og:image" content="{{file.thumbnail}}" />
+{% endblock %}
 
 {% block content %}
 <article class="db pv4 ph3 ph0-l bt bb b--black-10">

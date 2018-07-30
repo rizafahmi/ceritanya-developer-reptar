@@ -10,10 +10,12 @@
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta property="og:title" content="Ceritanya Developer Podcast" />
+    {% block meta_og %}
+    <meta property="og:title" content="{{site.title}}" />
     <meta property="og:type" content="audio" />
     <meta property="og:url" content="https://ceritanyadeveloper.com" />
     <meta property="og:image" content="/images/ceritanya-podcast-artwork.png" />
+    {% endblock %}
 
     <link rel="shortcut icon" href="/images/favicon.ico">
     <title>Ceritanya Developer Podcast</title>
