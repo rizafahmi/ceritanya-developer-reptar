@@ -16,7 +16,7 @@ tags:
 
 Mas Adinda Praditya atau yang biasa dipanggil Mas Dida adalah seorang developer yang sedang mengembara ke negeri tetangga, Singapura. Sama seperti narasumber kita sebelumnya, [Sonny]() yang juga sedang mengais rezeki di negera dengan ikon Singa lau atau Merlion ini.
 
-Mas Dida saat ini sedang bekerja di sebuah perusahaan _intelligence investing_, [SmartKarma](https://www.smartkarma.com) sebagai Senior Developer yang banyak berkutat di _backend_.
+Mas Dida saat ini sedang bekerja di sebuah perusahaan _intelligence investing_, [Smartkarma](https://www.smartkarma.com) sebagai Senior Developer yang banyak berkutat di _backend_.
 
 Mas Dida pertama kali _ngoding_ ketika diperkenalkan pertama kali dengan bahasa pemrograman [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) di semester pertama kuliah jurusan matematika [Universitas Indonesia](http://www.ui.ac.id/) tahun 1997. Bahkan jauh sebelum itu Mas Dida sudah menggandrungi komputer, tepatnya ketika berada di bangku sekolah dasar.
 
