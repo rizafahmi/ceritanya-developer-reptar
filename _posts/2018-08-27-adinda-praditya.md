@@ -51,8 +51,6 @@ Untuk tokoh idola, sosok yang juga menjadikan sang kakak [Aditya Pradana](https:
 
 ## Tech Stack
 
-Ruby, vim, php, python, tensorflow
-
 <img style="width: 128px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2000px-Ruby_logo.svg.png" />
 
 <img style="max-width: 128px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/2000px-Icon-Vim.svg.png" />
