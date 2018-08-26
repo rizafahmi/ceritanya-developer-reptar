@@ -2,7 +2,7 @@
 title:      devs[5] = Adinda Praditya
 date:       2018-08-25
 subtitle:   Dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang
-draft:      true
+draft:      false
 url:        /adinda-praditya/
 excerpt:    "Membanggakan bila produk yang kita develop itu benar-benar digunakan dan berdampak bagi kehidupan."
 guest:      Adinda Praditya
