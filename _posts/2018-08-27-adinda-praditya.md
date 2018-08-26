@@ -6,7 +6,7 @@ draft:      false
 url:        /adinda-praditya/
 excerpt:    "Membanggakan bila produk yang kita develop itu benar-benar digunakan dan berdampak bagi kehidupan."
 guest:      Adinda Praditya
-thumbnail: /images/sonny.jpg
+thumbnail: /images/dida.jpeg
 audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-6-12/3581804-44100-2-1769cf9eaf757.m4a
 embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs4--Sonny-Lazuardi-e1plv3
 tags:
