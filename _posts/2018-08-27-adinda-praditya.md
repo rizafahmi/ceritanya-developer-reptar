@@ -7,14 +7,14 @@ url:        /adinda-praditya/
 excerpt:    "Membanggakan bila produk yang kita develop itu benar-benar digunakan dan berdampak bagi kehidupan."
 guest:      Adinda Praditya
 thumbnail: /images/dida.jpeg
-audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-6-12/3581804-44100-2-1769cf9eaf757.m4a
-embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs4--Sonny-Lazuardi-e1plv3
+audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-27/4261693-44100-2-4cb138dcc1a99.m4a
+embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs5--Adinda-Praditya-e23lvq
 tags:
 - meta
 
 ---
 
-Mas Adinda Praditya atau yang biasa dipanggil Mas Dida adalah seorang developer yang sedang mengembara ke negeri tetangga, Singapura. Sama seperti narasumber kita sebelumnya, [Sonny]() yang juga sedang mengais rezeki di negera dengan ikon Singa lau atau Merlion ini.
+Mas Adinda Praditya atau yang biasa dipanggil Mas Dida adalah seorang developer yang sedang mengembara ke negeri tetangga, Singapura. Sama seperti narasumber kita sebelumnya, [Sonny](https://ceritanyadeveloper/sonny-lazuardi/) yang juga sedang mengais rezeki di negera dengan ikon Singa lau atau Merlion ini.
 
 Mas Dida saat ini sedang bekerja di sebuah perusahaan _intelligence investing_, [Smartkarma](https://www.smartkarma.com) sebagai Senior Developer yang banyak berkutat di _backend_.
 
@@ -22,7 +22,7 @@ Mas Dida pertama kali _ngoding_ ketika diperkenalkan pertama kali dengan bahasa 
 
 Setelah lulus kuliah, Mas Dida sempat menjadi developer honorer di Bappenas dari 2006 hingga 2008 sebelum kemudian mencari peruntungan mencari pekerjaan di Singapura. Setelah bekerja di Singapura, barulah Mas Dida 'menemukan' bahasa pemrograman Ruby setelah diperkenalkan oleh sang kakak [Aditya Pradana](https://devmuslim.id/post/060-memberi-menerima-nasihat-psycological-safety/) dan juga mulai mengikuti komunitas lokal di Singapura. Dan bahasa pemrograman Ruby inilah yang akhirnya digunakan di pekerjaan sehari-harinya hingga saat ini.
 
-Menurut Mas Dida, sebagai developer sebuah produk dan produknya benar-benar digunakan dan memberi manfaat momen-momen seperti inilah yang dapat membuat bangga. Apalagi dampaknya cukup besar dan _scope_-nya global karena teknologi memang tanpa batas ruang dan waktu.
+Menurut Mas Dida, sebagai developer sebuah produk dan produknya benar-benar digunakan dan memberi manfaat momen-momen seperti inilah yang dapat membuat bangga. Apalagi dampaknya cukup besar dan cakupannya global karena teknologi memang tanpa batas ruang dan waktu.
 
 Untuk tokoh idola, sosok yang juga menjadikan sang kakak [Aditya Pradana](https://devmuslim.id/post/060-memberi-menerima-nasihat-psycological-safety/) sebagai mentor ini sangat menyukai kontribusi open source yang dilakukan oleh [Yehuda Katz](https://yehudakatz.com/). Di komunitas manapun ia berada, kontribusinya sangat terlihat dan berusaha memberikan manfaat buat orang banyak. Mulai dari core team member [Ruby on Rails](http://rubyonrails.org/), [jQuery](http://jquery.com/), [Rust](https://yehudakatz.com/projects/rust-lang.org) hingga membuat beberapa _tools_ dan _framework_ keren seperti [Ember](http://emberjs.com/), [Cargo](https://crates.io/), [Handlebars](http://handlebarsjs.com/) dan masih banyak lagi!
 
