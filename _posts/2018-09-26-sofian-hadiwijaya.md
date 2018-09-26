@@ -1,26 +1,26 @@
 ---
 title:      devs[6] = Sofian Hadiwijaya Part 1
 date:       2018-08-25
-subtitle:    Ternyata belajar jauh lebih cepat dengan cara mengajar dan sharing dengan sesama
+subtitle:    Ternyata belajar jauh lebih cepat dengan cara mengajar dan sharing dengan sesama.
 draft:      false
 url:        /sofian-hadiwijaya-1/
 excerpt:    "Ternyata belajar jauh lebih cepat dengan cara mengajar dan sharing dengan sesama"
 guest:      Sofian Hadiwijaya
 thumbnail: /images/sofian.jpeg
-audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-27/4261693-44100-2-4cb138dcc1a99.m4a
-embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs5--Adinda-Praditya-e23lvq
+audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-8-26/4802033-44100-2-bb3cb2eb58f7f.m4a
+embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs6--Sofian-Hadiwijaya-Part-1-e29taa
 tags:
 - meta
 
 ---
 
-Sofian Hadiwijaya saat ini sedang merintis startup Warung Pintar sebagai CTO sekaligus Co-Founder. Dilahirkan di sebuah kampung kecil di Palembang, Tanjung Raja sekitar 80 kilometer dari kota Palembang. Ketertarikannya pertama ke dunia komputer pertama kali adalah melalu _game_ dan bercita-cita ingin membuat _game_ saat kecil. Cita-citanya kemudian berubah ingin membuat robot. Kedua cita-citanya secara tidak langsung terwujud.
+Sofian Hadiwijaya saat ini sedang merintis startup Warung Pintar sebagai CTO sekaligus Co-Founder. Dilahirkan di sebuah kampung kecil di Palembang, [ Tanjung Raja ](https://id.wikipedia.org/wiki/Tanjung_Raja,_Ogan_Ilir) sekitar 80 kilometer dari kota Palembang. Ketertarikannya pertama ke dunia komputer pertama kali adalah melalu _game_ dan bercita-cita ingin membuat _game_ saat kecil. Cita-citanya kemudian berubah ingin membuat robot. Kedua cita-citanya secara tidak langsung terwujud.
 
 Meskipun tertarik ke dunia _game_ dan robot, ternyata Sofian cukup bermasalah ketika menghadapi pelajaran komputer dan bahasa inggris saat di SMA. Merasa kurang cocok, akhirnya Sofian memutuskan untuk 'lari' dari dunia komputer dan lebih fokus belajar fisika dan mengikuti beberapa ekstra kurikuler seperti olimpiade fisika. Dan akhirnya bisa berhasil lulus ujian masuk ITB jurusan Fisika.
 
-Hanya saja karena satu dan lain hal, akhirnya Sofian memutuskan untuk membuang kesempatan tersebut dan lebih memilih masuk ke Bina Nusantara jurusan Teknik Industri. Akan tetapi disinilah perjalanan sebenarnya dimulai. Ia kemudian akrab dan kerap 'nongkrong' bareng anak-anak jurusan IT sehingga terekspos pemrograman.
+Hanya saja karena satu dan lain hal, akhirnya Sofian memutuskan untuk membuang kesempatan tersebut dan lebih memilih masuk ke Universitas Bina Nusantara jurusan Teknik Industri. Akan tetapi disinilah perjalanan sebenarnya dimulai. Ia kemudian akrab dan kerap 'nongkrong' bareng anak-anak jurusan IT sehingga terekspos pemrograman.
 
-Seperti yang sempat disebutkan di episode pertama podcast ini bersama Dicky Arinal, akhirnya Sofian dipertemukan dengan Dicky yang ia anggap sebagai mentornya di Binus Center. Ketika itu Sofian ingin _upgrade_ skill-nya dengan belajar disana. Namun, atas saran Dicky, akhirnya Sofian malah _apply_ untuk menjadi instruktur dan proses belajarnya pun menjadi cepat karena punya kewajiban mengajar baik materi yang sudah dikuasai maupun materi-materi baru yang belum ia kuasai.
+Seperti yang sempat disebutkan di episode pertama podcast ini bersama [ Dicky Arinal ](https://ceritanyadeveloper/dicky-arinal/), akhirnya Sofian dipertemukan dengan Dicky yang ia anggap sebagai mentornya di Binus Center. Ketika itu Sofian ingin _upgrade_ skill-nya dengan belajar disana. Namun, atas saran Dicky, akhirnya Sofian malah _apply_ untuk menjadi instruktur dan proses belajarnya pun menjadi cepat karena punya kewajiban mengajar baik materi yang sudah dikuasai maupun materi-materi baru yang belum ia kuasai.
 
 Karena alasan ekonomi dan kesibukannya mengajar di Binus Center akhirnya membuat kuliahnya terbengkalai dan akhirnya memutuskan untuk DO. Keputusan yang berat, karena Sofian sebenarnya masih ingin melanjutkan studinya, namun apalah daya tekanan ekonomi yang mengharuskannya mengakhiri studinya lebih cepat.
 
@@ -31,7 +31,7 @@ Setelah Crazy Hackers, Sofian kembali berkontribusi melalui _hackathon_. Kali in
 
 ## Tips Untuk Developer
 
-* Belajar jadi lebih cepat dengan cara _sharing_ dan berbagi ilmu dengan sesama
+* Belajar jadi lebih cepat dengan cara _sharing_ dan berbagi ilmu dengan sesama.
 
 
 
