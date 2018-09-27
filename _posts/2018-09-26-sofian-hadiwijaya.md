@@ -20,7 +20,7 @@ Meskipun tertarik ke dunia _game_ dan robot, ternyata Sofian cukup bermasalah ke
 
 Hanya saja karena satu dan lain hal, akhirnya Sofian memutuskan untuk membuang kesempatan tersebut dan lebih memilih masuk ke Universitas Bina Nusantara jurusan Teknik Industri. Akan tetapi disinilah perjalanan sebenarnya dimulai. Ia kemudian akrab dan kerap 'nongkrong' bareng anak-anak jurusan IT sehingga terekspos pemrograman.
 
-Seperti yang sempat disebutkan di episode pertama podcast ini bersama [ Dicky Arinal ](https://ceritanyadeveloper/dicky-arinal/), akhirnya Sofian dipertemukan dengan Dicky yang ia anggap sebagai mentornya di Binus Center. Ketika itu Sofian ingin _upgrade_ skill-nya dengan belajar disana. Namun, atas saran Dicky, akhirnya Sofian malah _apply_ untuk menjadi instruktur dan proses belajarnya pun menjadi cepat karena punya kewajiban mengajar baik materi yang sudah dikuasai maupun materi-materi baru yang belum ia kuasai.
+Seperti yang sempat disebutkan di episode pertama podcast ini bersama [ Dicky Arinal ](https://ceritanyadeveloper.com/dicky-arinal/), akhirnya Sofian dipertemukan dengan Dicky yang ia anggap sebagai mentornya di Binus Center. Ketika itu Sofian ingin _upgrade_ skill-nya dengan belajar disana. Namun, atas saran Dicky, akhirnya Sofian malah _apply_ untuk menjadi instruktur dan proses belajarnya pun menjadi cepat karena punya kewajiban mengajar baik materi yang sudah dikuasai maupun materi-materi baru yang belum ia kuasai.
 
 Karena alasan ekonomi dan kesibukannya mengajar di Binus Center akhirnya membuat kuliahnya terbengkalai dan akhirnya memutuskan untuk DO. Keputusan yang berat, karena Sofian sebenarnya masih ingin melanjutkan studinya, namun apalah daya tekanan ekonomi yang mengharuskannya mengakhiri studinya lebih cepat.
 
