@@ -4,7 +4,7 @@ date:       2018-08-25
 subtitle:    Ternyata belajar jauh lebih cepat dengan cara mengajar dan sharing dengan sesama.
 draft:      false
 url:        /sofian-hadiwijaya-1/
-excerpt:    "Ternyata belajar jauh lebih cepat dengan cara mengajar dan sharing dengan sesama"
+excerpt:    "Ternyata belajar jauh lebih cepat dengan cara mengajar dan sharing dengan sesama."
 guest:      Sofian Hadiwijaya
 thumbnail: /images/sofian.jpeg
 audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-8-26/4802033-44100-2-bb3cb2eb58f7f.m4a
@@ -14,19 +14,19 @@ tags:
 
 ---
 
-Sofian Hadiwijaya saat ini sedang merintis startup Warung Pintar sebagai CTO sekaligus Co-Founder. Dilahirkan di sebuah kampung kecil di Palembang, [ Tanjung Raja ](https://id.wikipedia.org/wiki/Tanjung_Raja,_Ogan_Ilir) sekitar 80 kilometer dari kota Palembang. Ketertarikannya pertama ke dunia komputer pertama kali adalah melalu _game_ dan bercita-cita ingin membuat _game_ saat kecil. Cita-citanya kemudian berubah ingin membuat robot. Kedua cita-citanya secara tidak langsung terwujud.
+Sofian Hadiwijaya saat ini sedang merintis startup [ Warung Pintar ](https://warungpintar.co.id/) sebagai CTO sekaligus Co-Founder. Dilahirkan di sebuah kampung kecil di Palembang, [ Tanjung Raja ](https://id.wikipedia.org/wiki/Tanjung_Raja,_Ogan_Ilir) sekitar 80 kilometer dari kota Palembang. Ketertarikannya pertama ke dunia komputer pertama kali adalah melalu _game_ dan bercita-cita ingin membuat _game_ saat kecil. Cita-citanya kemudian berubah ingin membuat robot. Kedua cita-citanya secara tidak langsung terwujud.
 
 Meskipun tertarik ke dunia _game_ dan robot, ternyata Sofian cukup bermasalah ketika menghadapi pelajaran komputer dan bahasa inggris saat di SMA. Merasa kurang cocok, akhirnya Sofian memutuskan untuk 'lari' dari dunia komputer dan lebih fokus belajar fisika dan mengikuti beberapa ekstra kurikuler seperti olimpiade fisika. Dan akhirnya bisa berhasil lulus ujian masuk ITB jurusan Fisika.
 
 Hanya saja karena satu dan lain hal, akhirnya Sofian memutuskan untuk membuang kesempatan tersebut dan lebih memilih masuk ke Universitas Bina Nusantara jurusan Teknik Industri. Akan tetapi disinilah perjalanan sebenarnya dimulai. Ia kemudian akrab dan kerap 'nongkrong' bareng anak-anak jurusan IT sehingga terekspos pemrograman.
 
-Seperti yang sempat disebutkan di episode pertama podcast ini bersama [ Dicky Arinal ](https://ceritanyadeveloper.com/dicky-arinal/), akhirnya Sofian dipertemukan dengan Dicky yang ia anggap sebagai mentornya di Binus Center. Ketika itu Sofian ingin _upgrade_ skill-nya dengan belajar disana. Namun, atas saran Dicky, akhirnya Sofian malah _apply_ untuk menjadi instruktur dan proses belajarnya pun menjadi cepat karena punya kewajiban mengajar baik materi yang sudah dikuasai maupun materi-materi baru yang belum ia kuasai.
+Seperti yang sempat disebutkan di episode pertama podcast ini bersama [ Dicky Arinal ](https://ceritanyadeveloper.com/dicky-arinal/), akhirnya Sofian dipertemukan dengan Dicky yang ia anggap sebagai mentornya di [ Binus Center ](http://binuscenter.com/). Ketika itu Sofian ingin _upgrade_ skill-nya dengan belajar disana. Namun, atas saran Dicky, akhirnya Sofian malah _apply_ untuk menjadi instruktur dan proses belajarnya pun menjadi cepat karena punya kewajiban mengajar baik materi yang sudah dikuasai maupun materi-materi baru yang belum ia kuasai.
 
 Karena alasan ekonomi dan kesibukannya mengajar di Binus Center akhirnya membuat kuliahnya terbengkalai dan akhirnya memutuskan untuk DO. Keputusan yang berat, karena Sofian sebenarnya masih ingin melanjutkan studinya, namun apalah daya tekanan ekonomi yang mengharuskannya mengakhiri studinya lebih cepat.
 
-Setelah dari Binus Center mulailah Sofian mengikuti beberapa _hackathon_ yang menurutnya mengubah hidupnya. Yang pertama adalah _hackathon_ Blackberry yang ternyata timnya mampu berbicara banyak di kancah nasional hingga internasional. Hingga akhirnya memutuskan untuk membuat perusahaannya sendiri, Crazy Hackers. Disana, Sofian menemukan kesenangan bermain-main dengan device Arduino dan iot.
+Setelah dari Binus Center mulailah Sofian mengikuti beberapa _hackathon_ yang menurutnya mengubah hidupnya. Yang pertama adalah _hackathon_ Blackberry yang ternyata timnya mampu berbicara banyak di kancah nasional hingga internasional. Hingga akhirnya memutuskan untuk membuat perusahaannya sendiri, [ Crazy Hackerz ](https://crazyhackerz.com/). Disana, Sofian menemukan kesenangan bermain-main dengan device seperit [ Arduino ](https://www.arduino.cc/) dan [IoT](https://en.wikipedia.org/wiki/Internet_of_things) secara umum.
 
-Setelah Crazy Hackers, Sofian kembali berkontribusi melalui _hackathon_. Kali ini bukan sebagai peserta melainkan sebagai penyelenggara. Namanya Hackathon Merdeka. Disana Sofian bertemu orang-orang hebat seperti Mas Ainun Najib dan Wilson Cuaca yang sekarang bersama Sofian mengembangkan Warung Pintar. Dan dampak dari acara ini sangat luar biasa untuk perkembagan karir Sofian selanjutnya hingga akhirnya memutuskan menerima tawaran Kudo.
+Setelah Crazy Hackerz, Sofian kembali berkontribusi melalui _hackathon_. Kali ini bukan sebagai peserta melainkan sebagai penyelenggara. Namanya [ Hackathon Merdeka ](http://hackathonmerdeka.id/). Disana Sofian bertemu orang-orang hebat seperti [ Mas Ainun Najib ](https://sg.linkedin.com/in/ainunnajib) dan [ Wilson Cuaca ](https://www.linkedin.com/in/willsoncuaca/) yang sekarang bersama Sofian mengembangkan Warung Pintar. Dan dampak dari acara ini sangat luar biasa untuk perkembagan karir Sofian selanjutnya hingga akhirnya memutuskan menerima tawaran [ Kudo ](https://kudo.co.id/).
 
 
 ## Tips Untuk Developer
