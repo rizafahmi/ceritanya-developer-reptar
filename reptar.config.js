@@ -6,21 +6,22 @@ module.exports = {
   // Any values placed here are globally accessible
   // from any template context via the `site` key.
   site: {
-    title: 'Ceritanya Developer Podcast ()[];',
-    email: 'rizafahmi@gmail.com',
-    description: 'Saya Riza dan di podcast ini saya akan berbincang-bincang dengan developer, programmer, software engineer keren dan inspiratif tentang bagaimana mereka memulai karir mereka sebagai developer. Kita juga akan mendengar cerita mereka tentang komputer pertama mereka, pengalaman coding pertama hingga pekerjaan pertama mereka sebagai developer.',
-    baseurl: '/', // the subpath of your site, e.g. /blog
-    url: 'https://ceritanyadeveloper.com',
+    title: "Ceritanya Developer Podcast ()[];",
+    email: "rizafahmi@gmail.com",
+    description:
+      "Saya Riza dan di podcast ini saya akan berbincang-bincang dengan developer, programmer, software engineer keren dan inspiratif tentang bagaimana mereka memulai karir mereka sebagai developer. Kita juga akan mendengar cerita mereka tentang komputer pertama mereka, pengalaman coding pertama hingga pekerjaan pertama mereka sebagai developer.",
+    baseurl: "/", // the subpath of your site, e.g. /blog
+    url: "https://ceritanyadeveloper.com"
   },
   // Where things are.
   // If you have a unique layout for your site and want to
   // change where Reptar looks for certain files you can change
   // them here. All files are relative to where this file is found.
   path: {
-    source: './',
-    destination: './_site',
-    templates: './_templates',
-    data: './_data',
+    source: "./",
+    destination: "./_site",
+    templates: "./_templates",
+    data: "./_data"
   },
   // Individual File configuration.
   file: {
@@ -29,29 +30,29 @@ module.exports = {
     // This current format supports dates like 2016-2-28
     // It uses moment.js under the head and its format syntax as well:
     // http://momentjs.com/docs/#/displaying/format/
-    dateFormat: 'YYYY-M-D',
+    dateFormat: "YYYY-M-D",
     // Apply frontmatter values to a File based upon a defined scope.
     // If the scope matches a File then the default values are applied if they
     // are not already set.
     defaults: [
       {
         // Any file in this path will have the default values applied.
-        scope: { path: './' },
-        values: { template: 'page', permalink: '/:title/' },
+        scope: { path: "./" },
+        values: { template: "page", permalink: "/:title/" }
       },
       {
         // Any file in this path will have the default values applied.
         // Because this path is more specific it will over-write the previous
         // defaults.
-        scope: { path: './_posts' },
-        values: { template: 'post', permalink: '/:title/' },
+        scope: { path: "./_posts" },
+        values: { template: "post", permalink: "/:title/" }
       },
       {
         // Any file with this matching metadata will have the default values
         // applied.
         scope: { metadata: { draft: true } },
-        values: { template: 'draft' },
-      },
+        values: { template: "draft" }
+      }
     ],
     // Filter out Files.
     filters: {
@@ -60,27 +61,27 @@ module.exports = {
       // If the date is in the future then it is filtered out.
       futureDate: {
         // Customize what key we should use to pull the date value from.
-        key: 'date',
-      },
-    },
+        key: "date"
+      }
+    }
   },
   // This is where you configure your collections of content.
   // For more details refer to the Collections documentation.
   collections: {
     post: {
-      path: './_posts',
-      template: 'index',
+      path: "./_posts",
+      template: "index",
       pageSize: 8,
-      sort: { key: 'date', order: 'descending' },
-      permalink: { index: '/', page: '/page/:page/' },
+      sort: { key: "date", order: "descending" },
+      permalink: { index: "/", page: "/page/:page/" }
     },
     tag: {
-      metadata: 'tags',
-      template: 'tag',
+      metadata: "tags",
+      template: "tag",
       pageSize: 6,
-      sort: { key: 'date', order: 'descending' },
-      permalink: { index: '/tag/:metadata/', page: '/tag/:metadata/:page/' },
-    },
+      sort: { key: "date", order: "descending" },
+      permalink: { index: "/tag/:metadata/", page: "/tag/:metadata/:page/" }
+    }
   },
   // If we should remove the compile destination folder before writing.
   cleanDestination: false,
@@ -88,24 +89,22 @@ module.exports = {
   // When running `reptar serve` what settings should be used.
   server: {
     port: 8080,
-    host: '127.0.0.1',
-    baseurl: '/',
+    host: "127.0.0.1",
+    baseurl: "/"
   },
   // Only build files that have changed.
   // This is a performance improvement to the time it takes to build your site.
-  incremental: false,
+  incremental: true,
   // What middlewares you want enabled and what configuration settings they
   // should have. Can be either a string which assumes it's an npm module or
   // a function which is the middleware itself, or an array of either.
-  middlewares: [
-    noopMiddleware,
-  ],
+  middlewares: [noopMiddleware],
   // Lifecycle methods are called at certain points in the lifecycle of Reptar.
   // Each value can be either a string or a function or an array of either.
   lifecycle: {
     willUpdate: noopMiddleware,
     didUpdate: noopMiddleware,
     willBuild: noopMiddleware,
-    didBuild: noopMiddleware,
-  },
+    didBuild: noopMiddleware
+  }
 };

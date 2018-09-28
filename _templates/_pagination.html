@@ -2,12 +2,11 @@
 <div class="tc mw8 center pt3">
   <div class="dib overflow-hidden ba br2 b--light-silver">
     <nav class="cf" data-name="pagination-numbers-bordered">
-
       {% if pagination.prev %}
       <a class="fl dib link dim black f6 f5-ns b pa3" href="{{pagination.prev_link}}">&larr; Newer Posts</a>
       {% endif %}
       {% if pagination.next %}
-      <a class="fl dib link dim black f6 f5-ns b pa3" href="{{pagination.prev_link}}">Older Posts &rarr;</a>
+      <a class="fl dib link dim black f6 f5-ns b pa3" href="{{pagination.next_link}}">Older Posts &rarr;</a>
       {% endif %}
     </nav>
   </div>
