@@ -70,7 +70,7 @@ module.exports = {
     post: {
       path: './_posts',
       template: 'index',
-      pageSize: 6,
+      pageSize: 8,
       sort: { key: 'date', order: 'descending' },
       permalink: { index: '/', page: '/page/:page/' },
     },
