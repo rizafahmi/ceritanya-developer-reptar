@@ -1,6 +1,6 @@
 ---
 title:      devs[6] = Sofian Hadiwijaya Part 1
-date:       2018-08-25
+date:       2018-09-26
 subtitle:    Ternyata belajar jauh lebih cepat dengan cara mengajar dan sharing dengan sesama.
 draft:      false
 url:        /sofian-hadiwijaya-1/
