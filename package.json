@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "normalize.css": "^8.0.0",
-    "reptar": "^3.3.1",
+    "reptar": "3.3.1",
     "reptar-excerpt": "^1.0.0",
     "reptar-html-minifier": "^1.0.0"
   }
