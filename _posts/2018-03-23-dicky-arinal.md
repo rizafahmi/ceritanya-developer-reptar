@@ -1,5 +1,5 @@
 ---
-title: devs[0] = Dicky Arinal
+title: devs[0][0] = Dicky Arinal
 url: /dicky-arinal/
 date: 2018-3-23
 draft: false

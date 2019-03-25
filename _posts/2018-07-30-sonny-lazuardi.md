@@ -1,5 +1,5 @@
 ---
-title:      devs[4] = Sonny Lazuardi
+title:      devs[0][4] = Sonny Lazuardi
 date:       2018-07-29
 subtitle:   Dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang
 draft:      false

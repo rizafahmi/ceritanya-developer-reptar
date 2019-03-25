@@ -1,5 +1,5 @@
 ---
-title:      devs[5] = Adinda Praditya
+title:      devs[0][5] = Adinda Praditya
 date:       2018-08-25
 subtitle:   Dampak yang didapat dengan membangun aplikasi yang berguna bagi banyak orang
 draft:      false

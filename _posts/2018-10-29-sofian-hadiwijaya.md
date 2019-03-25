@@ -1,5 +1,5 @@
 ---
-title:      devs[7] = Sofian Hadiwijaya Part 2
+title:      devs[0][7] = Sofian Hadiwijaya Part 2
 date:       2018-09-30
 subtitle: Carilah masalah! Ini adalah hal menarik yang harus dilakukan semua orang. Itulah kerjaan gue, mencari masalah. TAPI, tidak berhenti sampai di masalah, kita juga harus mencari solusi atas masalah tersebut.
 draft:      false

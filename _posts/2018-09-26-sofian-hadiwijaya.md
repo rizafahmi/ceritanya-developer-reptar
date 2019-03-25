@@ -1,5 +1,5 @@
 ---
-title:      devs[6] = Sofian Hadiwijaya Part 1
+title:      devs[0][6] = Sofian Hadiwijaya Part 1
 date:       2018-09-26
 subtitle:    Ternyata belajar jauh lebih cepat dengan cara mengajar dan sharing dengan sesama.
 draft:      false

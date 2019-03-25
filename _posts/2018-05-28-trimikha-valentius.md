@@ -1,5 +1,5 @@
 ---
-title:      devs[2] = Trimikha Valentius
+title:      devs[0][2] = Trimikha Valentius
 date:       2018-05-28
 subtitle:    Komunitas menjadi bagian penting dalam karirnya sebagai developer
 url: /trimikha-valentius/

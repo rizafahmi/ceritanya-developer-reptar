@@ -1,5 +1,5 @@
 ---
-title: devs[1] = Ryan Akbar
+title: devs[0][1] = Ryan Akbar
 url: /ryan-akbar/
 date: 2018-4-30
 draft: false
