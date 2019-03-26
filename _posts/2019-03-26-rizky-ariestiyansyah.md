@@ -8,7 +8,7 @@ excerpt: "Kalau mau proposal talk punya kesempatan diterima, submitlah proposal 
 guest:      Rizky Ariestiyansyah
 thumbnail: /images/rizky.jpg
 audio: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-9-29/5447242-44100-2-83667a0379e3d.m4a
-embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs7--Sofian-Hadiwijaya-Part-2-e2g9lf
+embed: https://anchor.fm/ceritanya-developer/embed/episodes/devs10--Rizky-Ariestiyansyah-e3hukp
 tags:
 - meta
 
