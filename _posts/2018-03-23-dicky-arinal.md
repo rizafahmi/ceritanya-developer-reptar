@@ -43,7 +43,7 @@ Beberapa fakta menariknya lagi adalah Mas Dicky ini merupakan _early mentor_ dar
 
 ## Tech Stack
 
-<img src="http://www.unixstickers.com/image/data/stickers/scala/Scala-logoText.sh.png" width="128" />
+<img src="https://www.data-blogger.com/wp-content/uploads/2016/07/scala-logo.png" width="128" />
 <img src="https://camo.githubusercontent.com/0617f4657fef12e8d16db45b8d73def73144b09f/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" width="128" />
 <img src="https://rlv.zcache.co.uk/f_software_foundation_stickers-r8a45deba20314cc2bd8486937a824c69_v9i40_8byvr_540.jpg" width="128" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/2000px-EmacsIcon.svg.png" alt="emacs" width="128" />

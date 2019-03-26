@@ -43,7 +43,7 @@ menikmati perannya sebagai mentor dan instruktur.
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="128" />
 <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" width="128" />
 <img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg" width="128" />
-<img src="http://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="128" />
+<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="128" />
 <img src="https://www.xlsoft.com/en/products/jetbrains/images/logo_WebStorm.png" width="128" />
 
 ## Sponsor

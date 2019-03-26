@@ -16,5 +16,5 @@ Selamat datang di ceritanya developer podcast. Saya [ Riza ](https://rizafahmi.c
 
 * [RSS](https://anchor.fm/s/30348d4/podcast/rss)
 * [iTunes](https://itunes.apple.com/us/podcast/ceritanya-developer-podcast/id1364448110?mt=2)
-* [PocketCast](http://pca.st/CwU8)
+* [PocketCast](https://pca.st/CwU8)
 * [Anchor.fm](https://anchor.fm/ceritanya-developer)

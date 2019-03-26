@@ -1,6 +1,6 @@
 ---
 title:      devs[1][0] = Rizky Ariestiyansyah
-date:       2019-03-24
+date:       2019-03-26
 subtitle: Kalau mau proposal talk lebih punya kesempatan diterima, submitlah proposal secepat mungkin
 draft:      false
 url:        /rizky-ariestiyansyah/
@@ -52,6 +52,10 @@ Tips untuk _public speaking_:
 ## Dukungan dan Donasi
 
 Untuk saat ini beberapa alat untuk podcast terutama mic masih pinjam sana-sini. Karena itu jika teman-teman berkenan mendonasikan sebagian rezekinya untuk membeli alat, boleh silakan donasikan dengan gopay ataupun paypal.
+
+Rencana terdekat saya ingin membeli [Handy Voice Recorder](https://www.tokopedia.com/okedealpedia/zoom-perekam-suara-digital-handy-voice-recorder-h1n-black?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Duniverse_page%3D1_ob%3D23_q%3DZoom+H1n_po%3D1_catid%3D634&lt=%2Fsearchproduct%20-%20p1%20-%20product) dengan harga sekitar 2 juta rupiah.
+
+<img style="height: 256px;" src="/images/zoom.png" alt="">
 
 ### Donasi via GoPay
 
