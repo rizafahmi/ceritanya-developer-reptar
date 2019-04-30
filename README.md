@@ -1,5 +1,7 @@
 # Ceritanya Developer Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce2f05dd-11a9-43ad-98bd-f0b4dc4365b2/deploy-status)](https://app.netlify.com/sites/ceritanyadeveloper/deploys)
+
 This website is for [Ceritanya Developer Podcast](https://ceritanyadeveloper.com), an Indonesia Podcast interview awesome software developers about their past, present and their future. We talk about their first computer, first programming language and first job as a developer. Build with [Reptar](http://reptar.github.io/) as static site generator and [tachyons](http://tachyons.io) as the css framework.
 
 Help me improve this website 🙇‍♂️.
