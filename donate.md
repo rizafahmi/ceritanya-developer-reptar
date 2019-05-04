@@ -13,7 +13,7 @@ Rencana terdekat saya ingin membeli [Handy Voice Recorder](https://www.tokopedia
 
 ### Donasi via GoPay
 
-![](/images/gopay.png)
+<img style="height: 256px;" src="/images/gopay.png" alt="">
 
 ### Donasi via PayPal
 
@@ -21,9 +21,9 @@ Rencana terdekat saya ingin membeli [Handy Voice Recorder](https://www.tokopedia
 
 ### Donasi via Patreon
 
-Teman-teman juga dapat melakukan donasi melalui [Patreon](https://patreon.com/rizafahmi). Patreon adalah sebuah platform untuk para pembuat konten mendapatkan uang setiap bulannya. Uang digunakan untuk membeli kopi, memotivasi, bahkan ada yang sampai dapat membiayai hidupnya murni dari Patreon, seperti [sang kreator Vue.js Evan You](https://www.patreon.com/evanyou).
+Teman-teman juga dapat melakukan donasi melalui [Patreon](https://www.patreon.com/bePatron?u=3067719). Patreon adalah sebuah platform untuk para pembuat konten mendapatkan uang setiap bulannya. Uang digunakan untuk membeli kopi, memotivasi, bahkan ada yang sampai dapat membiayai hidupnya murni dari Patreon, seperti [sang kreator Vue.js Evan You](https://www.patreon.com/evanyou).
 
-<a href="https://www.patreon.com/bePatron?u=3067719" data-patreon-widget-type="become-patron-button">Klik disini untuk menjadi Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=3067719" data-patreon-widget-type="become-patron-button">Klik disini untuk menjadi Patron!</a><!--script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script -->
 
 ### Dukungan via Notion
 
