@@ -19,6 +19,12 @@ Rencana terdekat saya ingin membeli [Handy Voice Recorder](https://www.tokopedia
 
 [Klik disini untuk melakukan donasi via PayPal](https://www.paypal.me/rizafahmi/10).
 
+### Donasi via Patreon
+
+Teman-teman juga dapat melakukan donasi melalui [Patreon](https://patreon.com/rizafahmi). Patreon adalah sebuah platform untuk para pembuat konten mendapatkan uang setiap bulannya. Uang digunakan untuk membeli kopi, memotivasi, bahkan ada yang sampai dapat membiayai hidupnya murni dari Patreon, seperti [sang kreator Vue.js Evan You](https://www.patreon.com/evanyou).
+
+<a href="https://www.patreon.com/bePatron?u=3067719" data-patreon-widget-type="become-patron-button">Klik disini untuk menjadi Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 ### Dukungan via Notion
 
 Salah satu tools yang menjadi senjata rahasia saya, terutama dalam proses produksi podcast. Mulai dari menyiapkan skrip, penjadwalan, menulis catatan episode, dan _list todo lainnya_. Saya pakai tools yang namanya [Notion](https://www.notion.so/?r=6445d974f9394c4299f682bd0855f5bd).
