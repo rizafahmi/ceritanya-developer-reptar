@@ -13,7 +13,7 @@ Rencana terdekat saya ingin membeli [Handy Voice Recorder](https://www.tokopedia
 
 ### Donasi via GoPay
 
-<img style="height: 256px;" src="/images/gopay.png" alt="">
+<img style="height: 367px;" src="/images/gopay.png" alt="">
 
 ### Donasi via PayPal
 
